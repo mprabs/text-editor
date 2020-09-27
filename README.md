@@ -1,7 +1,9 @@
 # text-editor
 
-A Simple text-editor app
+A Simple text-editor app where you can add a blockquote.
+
 ### Using react native & expo
+Editor Library Used: [rich-native-pell-rich-editor](https://github.com/wxik/react-native-rich-editor)
 
 [![image](https://www.linkpicture.com/q/Screenshot-109_1.png)](https://www.linkpicture.com/view.php?img=LPic5f7035f3ae8021924237462)
 
